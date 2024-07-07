@@ -1,3 +1,3 @@
 # PicoCTF Writeups
 
-Created by: bazoka-kaka
+Writeups of picoCTF solutions

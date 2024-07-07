@@ -2,19 +2,20 @@
 
 import string
 
+f = open("message.txt")
+
+str_val = f.read()
+
+nums = [int(n) % 37 for n in str_val.split()]
+
 flag = []
 
-with open("message.txt") as filp:
-  contents = filp.read()
-  nums = [int(val) for val in contents.split()]
-  for num in nums:
-    mod = num % 37
-    
-    if mod in range(26):
-      flag.append(string.ascii_uppercase[mod])
-    elif mod in range(26, 36):
-      flag.append(string.digits[mod - 26])
-    else:
-      flag.append('_')
+for n in nums:
+  if n in range(26):
+    flag.append(string.ascii_uppercase[n])
+  elif n in range(26, 35):
+    flag.append(string.digits[n - 26])
+  else:
+    flag.append('_')
 
-print("picoCTF{" + ''.join(flag) + "}")
+print('picoCTF{' + ''.join(flag) + '}')

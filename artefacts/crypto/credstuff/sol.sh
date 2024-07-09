@@ -1,0 +1,1 @@
+echo "cvpbPGS{P7e1S_54I35_71Z3}" | tr "A-Za-z" "N-ZA-Mn-za-m"

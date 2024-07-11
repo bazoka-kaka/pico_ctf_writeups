@@ -23,3 +23,11 @@ https://play.picoctf.org/practice/challenge/286
 5. Get the flag
 
   <img src="../assets/286/286_4.png" />
+
+here's another way to solve the problem:
+
+```
+strings network-dump.flag.pcap  | grep "p i c o" | tr -d " "
+```
+
+here's the flag: picoCTF{p4ck37_5h4rk_01b0a0d6}

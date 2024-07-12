@@ -1,12 +1,3 @@
-# Unpack Me
-
-## Problem
-
-Can you get the flag? Reverse engineer this Python program.
-
-## Solution
-
-```
 import base64
 from cryptography.fernet import Fernet
 
@@ -18,18 +9,5 @@ key_str = 'correctstaplecorrectstaplecorrec'
 key_base64 = base64.b64encode(key_str.encode())
 f = Fernet(key_base64)
 plain = f.decrypt(payload)
-print(plain.decode())
+print(plain)
 # exec(plain.decode())
-```
-
-then just run the program, the flag will be visible
-
-or here's a bash script to just get the flag:
-
-```
-#!/usr/bin/bash
-
-python3 unpackme.flag.py | grep -oE picoCTF{.*?} --color=none
-```
-
-flag: picoCTF{175_chr157m45_5274ff21}

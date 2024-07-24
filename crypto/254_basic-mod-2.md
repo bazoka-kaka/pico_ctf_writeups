@@ -8,42 +8,31 @@ A new modular challenge! Download the message here. Take each number mod 41 and 
 
 Here's the solver script
 
-```
+```py
 #!/usr/bin/env python3
 
 import string
 
-def egcd(a, b):
-    if a == 0:
-        return (b, 0, 1)
-    else:
-        g, y, x = egcd(b % a, a)
-        return (g, x - (b // a) * y, y)
+f = open("message.txt")
 
-def modinv(a, m):
-    g, x, y = egcd(a, m)
-    if g != 1:
-        raise Exception('modular inverse does not exist')
-    else:
-        return x % m
+content = f.read()
 
-f = open("message.txt", 'r')
-
-data = f.read()
-
-arr = [modinv(int(val), 41) for val in data.split()]
+# modular inverse the contents
+enc = [pow(int(x), -1, 41) for x in content.split(' ')]
 
 flag = []
 
-for n in arr:
-  if n in range(27):
-    flag.append(string.ascii_letters[n - 1])
-  elif n in range(27, 37):
-    flag.append(string.digits[n - 27])
-  else:
-    flag.append('_')
+for x in enc:
+    if x in range(1, 27):
+        flag.append(string.ascii_lowercase[x - 1])
+    elif x in range(27, 37):
+        flag.append(str(x % 26 - 1))
+    else:
+        flag.append("_")
 
 print("picoCTF{" + "".join(flag) + "}")
+
+f.close()
 ```
 
 flag: picoCTF{1nv3r53ly_h4rd_8a05d939}

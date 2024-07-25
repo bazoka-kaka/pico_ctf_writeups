@@ -1,16 +1,17 @@
 #!/usr/bin/env python3
 
-f = open("message.txt", "r")
+f = open('message.txt')
 
-data = f.read()
+encrypted = f.read()
 
-flag = []
+decoded = []
 
-for i in range(0, len(data), 3):
-  content = data[i:i+3]
-  a, b, c = content
-  flag.append(c + a + b)
+for i in range(0, len(encrypted), 3):
+    a, b, c = encrypted[i:i+3]
+    decoded.append(c+a+b)
 
-complete = "".join(flag)
+flag = "".join(decoded).split(' ')[3]
 
-print(complete.split(' ')[3])
+print(flag)
+
+f.close()

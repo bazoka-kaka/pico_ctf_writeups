@@ -2,24 +2,21 @@
 
 import string
 
-file = open("message.txt", "r")
-data = file.read()
+f = open("message.txt")
 
-upper_key = data[:27]
-lower_key = upper_key.lower()
-content = data[29:]
+content = f.read()
+key = content.split(' ')[0]
+d_flag = content.split('\n')[-1].split(' ')[-1]
 
-decoded = []
+decrypted = []
 
-for idx, x in enumerate(content):
-  if x.islower():
-    i = lower_key.index(x)
-    decoded.append(string.ascii_lowercase[i])
-  elif x.isupper():
-    i = upper_key.index(x)
-    decoded.append(string.ascii_uppercase[i])
-  else:
-    decoded.append(x)
-  
-flag = ''.join(decoded).split(': ')[1]
-print(flag)
+for x in d_flag:
+    if x in ['{', '}', '_'] or x.isnumeric():
+        decrypted.append(x)
+    else:
+        i = key.index(x.upper())
+        decrypted.append(string.ascii_uppercase[i])
+
+print("".join(decrypted))
+
+f.close()

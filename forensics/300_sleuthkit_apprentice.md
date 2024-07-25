@@ -59,3 +59,13 @@ https://play.picoctf.org/practice/challenge/300
    ```
 
    <img src="../assets/300/300_7.png" />
+
+## Another Solution Approach
+
+Use a tool called autopsy
+
+installation: `sudo apt install autopsy -y`
+
+if we check in the 3rd partition, in root dir, my_folders, we get flag.uni.txt, see the content and voila!
+
+FLAG: `picoCTF{by73_5urf3r_3497ae6b}`

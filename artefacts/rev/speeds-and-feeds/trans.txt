@@ -1,0 +1,9180 @@
+G17
+XY plane selection
+
+G21
+Programming in millimeters (mm)
+
+G40
+Tool radius compensation off
+
+G90
+Absolute programming
+
+G64
+Default cutting mode (cancel exact stop check mode)
+
+P0.003
+Serves as parameter address for various G and M codes
+
+F50
+Defines feed rate
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X0.8276
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X0.8276
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y-1.9310
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X1.1034
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X1.1034
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y-1.9310
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X1.1034
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.0345
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X1.6552
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.5862
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X2.2069
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X2.7586
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X3.5862
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.5862
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X4.1379
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.0345
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X4.4138
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.2069
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X4.4138
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.6552
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X4.1379
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.8276
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X3.5862
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X2.7586
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X2.2069
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X1.6552
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X1.1034
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.8276
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X2.7586
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X3.3103
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.5862
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X3.8621
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.0345
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X4.1379
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.2069
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X4.1379
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.6552
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X3.8621
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.8276
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X3.3103
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X2.7586
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X0.0000
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X1.1034
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X0.0000
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y-1.9310
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X1.9310
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y-1.9310
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X7.2414
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X6.9655
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.5172
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X7.2414
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.2414
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X7.5172
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.5172
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X7.2414
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X7.2414
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X7.2414
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X7.5172
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X7.5172
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X6.4138
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X7.5172
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X6.4138
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X8.3448
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X13.6552
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.0345
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X13.3793
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.7586
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X13.6552
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.4828
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X13.9310
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.7586
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X13.9310
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.0345
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X13.3793
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.5862
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X12.8276
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X12.0000
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X11.1724
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.5862
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X10.6207
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.0345
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X10.3448
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.2069
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X10.3448
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.6552
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X10.6207
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.8276
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X11.1724
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X12.0000
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X12.5517
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X13.3793
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X13.9310
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.8276
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X12.0000
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X11.4483
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.5862
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X10.8966
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.0345
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X10.6207
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.2069
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X10.6207
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.6552
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X10.8966
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.8276
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X11.4483
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X12.0000
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X17.5862
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X16.7586
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.5862
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X16.2069
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.0345
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X15.9310
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.2069
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X15.9310
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.6552
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X16.2069
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.8276
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X16.7586
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X17.5862
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X18.1379
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X18.9655
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X19.5172
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.8276
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X19.7931
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.6552
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X19.7931
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.2069
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X19.5172
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.0345
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X18.9655
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.5862
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X18.1379
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X17.5862
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X17.0345
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.5862
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X16.4828
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.0345
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X16.2069
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.2069
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X16.2069
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.6552
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X16.4828
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.8276
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X17.0345
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X17.5862
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X18.1379
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X18.6897
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X19.2414
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.8276
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X19.5172
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.6552
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X19.5172
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.2069
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X19.2414
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.0345
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X18.6897
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.5862
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X18.1379
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X25.6552
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.9655
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X25.9310
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.1379
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X25.9310
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X25.6552
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.9655
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X25.1034
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.5172
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X24.2759
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X23.7241
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X22.8966
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.5172
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X22.3448
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.9655
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X22.0690
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.4138
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X21.7931
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.5862
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X21.7931
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.2069
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X22.0690
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.3793
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X22.3448
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.8276
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X22.8966
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X23.7241
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X24.2759
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X25.1034
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X25.6552
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.8276
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X25.9310
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.3793
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X23.7241
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X23.1724
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.5172
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X22.6207
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.9655
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X22.3448
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.4138
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X22.0690
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.5862
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X22.0690
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.2069
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X22.3448
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.3793
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X22.6207
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.8276
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X23.1724
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X23.7241
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X29.8621
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X29.8621
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X30.1379
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X30.1379
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X28.2069
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X27.9310
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.1379
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X27.9310
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X32.0690
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X32.0690
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.1379
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X31.7931
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X29.0345
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X30.9655
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X34.8966
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X34.8966
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X35.1724
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X35.1724
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X36.8276
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.1379
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X36.8276
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.9310
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X34.0690
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X38.4828
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X38.4828
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.1379
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X38.2069
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X35.1724
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.0345
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X36.8276
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.0345
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X34.0690
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X36.0000
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X41.8621
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y6.8966
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X41.3103
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y6.6207
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X41.0345
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y6.3448
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X40.7586
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X40.7586
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.2414
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X41.0345
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.6897
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X41.3103
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.4138
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X41.5862
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X41.5862
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.3103
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X41.0345
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.7586
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X41.3103
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y6.6207
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X41.0345
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y6.0690
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X41.0345
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.5172
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X41.3103
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.9655
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X41.5862
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.6897
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X41.8621
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.1379
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X41.8621
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.5862
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X41.5862
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.0345
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X40.4828
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.4828
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X41.5862
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.9310
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X41.8621
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.3793
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X41.8621
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.8276
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X41.5862
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X41.3103
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X41.0345
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y-0.5517
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X41.0345
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y-1.1034
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X41.3103
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y-1.6552
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X41.0345
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.2069
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X41.5862
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.6552
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X41.5862
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.1034
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X41.3103
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.5517
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X41.0345
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X40.7586
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y-0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X40.7586
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y-0.8276
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X41.0345
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y-1.3793
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X41.3103
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y-1.6552
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X41.8621
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y-1.9310
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X44.6897
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X44.6897
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X44.9655
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X44.9655
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X44.9655
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.0345
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X45.5172
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.5862
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X46.3448
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X46.8966
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X47.7241
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.5862
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X48.0000
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.0345
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X48.0000
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X46.8966
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X47.4483
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.5862
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X47.7241
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.0345
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X47.7241
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X43.8621
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X44.9655
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X43.8621
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X45.7931
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X46.8966
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X48.8276
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X51.6552
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X51.6552
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.8276
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X51.9310
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X52.7586
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X53.3103
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X54.1379
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X54.6897
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.8276
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X51.9310
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X51.9310
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.8276
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X52.2069
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X52.7586
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X54.6897
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X54.6897
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X54.9655
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X54.9655
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X50.8276
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X51.9310
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X53.8621
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X54.9655
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X54.6897
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X55.7931
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X58.6207
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X58.6207
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X58.8966
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X58.8966
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X58.8966
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.0345
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X59.4483
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.5862
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X60.2759
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X60.8276
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X61.6552
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.5862
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X61.9310
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.0345
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X61.9310
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X60.8276
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X61.3793
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.5862
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X61.6552
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.0345
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X61.6552
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X61.9310
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.0345
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X62.4828
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.5862
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X63.3103
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X63.8621
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X64.6897
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.5862
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X64.9655
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.0345
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X64.9655
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X63.8621
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X64.4138
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.5862
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X64.6897
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.0345
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X64.6897
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X57.7931
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X58.8966
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X57.7931
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X59.7241
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X60.8276
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X62.7586
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X63.8621
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X65.7931
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X68.0690
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.6897
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X68.3448
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.4138
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X68.0690
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.1379
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X67.7931
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.4138
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X67.7931
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.6897
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X68.0690
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.2414
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X68.3448
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.5172
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X69.1724
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X70.2759
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X71.1034
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.5172
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X71.3793
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.9655
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X71.3793
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.1379
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X71.1034
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.5862
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X70.2759
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.3103
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X69.4483
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.3103
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X70.2759
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X70.8276
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.5172
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X71.1034
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.9655
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X71.1034
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.1379
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X70.8276
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.5862
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X70.2759
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.3103
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X70.8276
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.0345
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X71.3793
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.4828
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X71.6552
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.9310
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X71.6552
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.1034
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X71.3793
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.5517
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X71.1034
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X70.2759
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X69.1724
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X68.3448
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X68.0690
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.5517
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X67.7931
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.1034
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X67.7931
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.3793
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X68.0690
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.6552
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X68.3448
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.3793
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X68.0690
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.1034
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X71.1034
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.7586
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X71.3793
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.9310
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X71.3793
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.1034
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X71.1034
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.5517
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X70.8276
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X70.2759
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X74.4828
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X74.4828
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X74.7586
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X74.7586
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X74.7586
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.2069
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X75.0345
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.0345
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X75.5862
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.5862
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X76.1379
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X76.9655
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X77.2414
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.5862
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X77.2414
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.3103
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X76.9655
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.0345
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X76.6897
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.3103
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X76.9655
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.5862
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X73.6552
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X74.7586
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X73.6552
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X75.5862
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X79.2414
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.6897
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X79.7931
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.9655
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X80.6207
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X80.6207
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X80.3448
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.5172
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X80.3448
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X79.2414
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X81.7241
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X87.0345
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.0345
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X86.7586
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.7586
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X87.0345
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.4828
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X87.3103
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.7586
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X87.3103
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.0345
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X86.7586
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.5862
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X86.2069
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X85.3793
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X84.5517
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.5862
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X84.0000
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.0345
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X83.7241
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.2069
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X83.7241
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.6552
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X84.0000
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.8276
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X84.5517
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X85.3793
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X85.9310
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X86.7586
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X87.3103
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.8276
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X85.3793
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X84.8276
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.5862
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X84.2759
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.0345
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X84.0000
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.2069
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X84.0000
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.6552
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X84.2759
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.8276
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X84.8276
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X85.3793
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X89.8621
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.3103
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X89.8621
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.0345
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X89.5862
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.0345
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X89.5862
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.3103
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X89.8621
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.5862
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X90.4138
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X91.5172
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X92.0690
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.5862
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X92.3448
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.3103
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X92.6207
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.7586
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X92.6207
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.8276
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X92.8966
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X93.1724
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X92.3448
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.3103
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X92.3448
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.8276
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X92.6207
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X93.1724
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X93.4483
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X92.3448
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.7586
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X92.0690
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.4828
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X90.4138
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.2069
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X89.5862
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.9310
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X89.3103
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.3793
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X89.3103
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.8276
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X89.5862
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X90.4138
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X91.2414
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X91.7931
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X92.3448
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.8276
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X90.4138
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.2069
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X89.8621
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.9310
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X89.5862
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.3793
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X89.5862
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.8276
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X89.8621
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X90.4138
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X96.2759
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X96.2759
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X96.5517
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X96.5517
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X95.4483
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X96.5517
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X95.4483
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X97.3793
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X99.3793
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y-0.5517
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X103.7931
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y-0.5517
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X109.1034
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.0345
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X108.8276
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.7586
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X109.1034
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.4828
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X109.3793
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.7586
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X109.3793
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.0345
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X108.8276
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.5862
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X108.2759
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X107.4483
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X106.6207
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.5862
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X106.0690
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.0345
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X105.7931
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.2069
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X105.7931
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.6552
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X106.0690
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.8276
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X106.6207
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X107.4483
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X108.0000
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X108.8276
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X109.3793
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.8276
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X107.4483
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X106.8966
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.5862
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X106.3448
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.0345
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X106.0690
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.2069
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X106.0690
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.6552
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X106.3448
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.8276
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X106.8966
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X107.4483
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X113.0345
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X112.2069
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.5172
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X111.6552
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.6897
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X111.3793
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.3103
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X111.3793
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.4828
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X111.6552
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.1034
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X112.2069
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X113.0345
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X113.5862
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X114.4138
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X114.9655
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.1034
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X115.2414
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.4828
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X115.2414
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.3103
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X114.9655
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.6897
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X114.4138
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.5172
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X113.5862
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X113.0345
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X112.4828
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.5172
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X112.2069
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.2414
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X111.9310
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.6897
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X111.6552
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.3103
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X111.6552
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.4828
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X111.9310
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.1034
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X112.2069
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.5517
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X112.4828
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X113.0345
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X113.5862
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X114.1379
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X114.4138
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.5517
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X114.6897
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.1034
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X114.9655
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.4828
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X114.9655
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.3103
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X114.6897
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.6897
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X114.4138
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.2414
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X114.1379
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.5172
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X113.5862
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X118.0690
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X118.0690
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X118.3448
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X118.3448
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X118.3448
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.0345
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X118.8966
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.5862
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X119.7241
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X120.2759
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X121.1034
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.5862
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X121.3793
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.0345
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X121.3793
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X120.2759
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X120.8276
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.5862
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X121.1034
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.0345
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X121.1034
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X117.2414
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X118.3448
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X117.2414
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X119.1724
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X120.2759
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X122.2069
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X125.0345
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X125.0345
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.1034
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X125.3103
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X125.8621
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X126.4138
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X126.9655
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X127.2414
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.8276
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X125.3103
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X125.3103
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.1034
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X125.5862
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X125.8621
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X124.2069
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X126.4138
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X130.0690
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X130.0690
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X130.3448
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X130.3448
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X130.3448
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.2069
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X130.6207
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.0345
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X131.1724
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.5862
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X131.7241
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X132.5517
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X132.8276
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.5862
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X132.8276
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.3103
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X132.5517
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.0345
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X132.2759
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.3103
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X132.5517
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.5862
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X129.2414
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X130.3448
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X129.2414
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X131.1724
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X136.4828
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X135.6552
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.5172
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X135.1034
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.6897
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X134.8276
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.3103
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X134.8276
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.4828
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X135.1034
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.1034
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X135.6552
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X136.4828
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X137.0345
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X137.8621
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X138.4138
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.1034
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X138.6897
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.4828
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X138.6897
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.3103
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X138.4138
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.6897
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X137.8621
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.5172
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X137.0345
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X136.4828
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X135.9310
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.5172
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X135.6552
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.2414
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X135.3793
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.6897
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X135.1034
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.3103
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X135.1034
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.4828
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X135.3793
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.1034
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X135.6552
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.5517
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X135.9310
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X136.4828
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X137.0345
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X137.5862
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X137.8621
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.5517
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X138.1379
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.1034
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X138.4138
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.4828
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X138.4138
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.3103
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X138.1379
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.6897
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X137.8621
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.2414
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X137.5862
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.5172
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X137.0345
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X141.5172
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X141.5172
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X141.7931
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X141.7931
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X140.6897
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X141.7931
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X140.6897
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X142.6207
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X144.6207
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y-0.5517
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X149.0345
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y-0.5517
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X151.0345
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.6897
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X151.5862
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.9655
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X152.4138
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X152.4138
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X152.1379
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.5172
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X152.1379
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X151.0345
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X153.5172
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X155.7931
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.6897
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X156.0690
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.4138
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X155.7931
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.1379
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X155.5172
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.4138
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X155.5172
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.6897
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X155.7931
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.2414
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X156.0690
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.5172
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X156.8965
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X158.0000
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X158.8276
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.5172
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X159.1034
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.9655
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X159.1034
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.1379
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X158.8276
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.5862
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X158.0000
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.3103
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X157.1724
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.3103
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X158.0000
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X158.5517
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.5172
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X158.8276
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.9655
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X158.8276
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.1379
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X158.5517
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.5862
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X158.0000
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.3103
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X158.5517
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.0345
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X159.1034
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.4828
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X159.3793
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.9310
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X159.3793
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.1034
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X159.1034
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.5517
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X158.8276
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X158.0000
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X156.8966
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X156.0690
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X155.7931
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.5517
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X155.5172
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.1034
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X155.5172
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.3793
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X155.7931
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.6552
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X156.0690
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.3793
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X155.7931
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.1034
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X158.8276
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.7586
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X159.1034
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.9310
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X159.1034
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.1034
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X158.8276
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.5517
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X158.5517
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X158.0000
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X164.9655
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X164.6897
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.0345
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X164.1379
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.4828
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X163.3103
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.2069
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X163.0345
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.2069
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X162.2069
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.4828
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X161.6552
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.0345
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X161.3793
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X161.3793
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.1379
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X161.6552
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.9655
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X162.2069
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.5172
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X163.0345
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X163.5862
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X164.4138
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.5172
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X164.9655
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.9655
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X165.2414
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.1379
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X165.2414
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.4828
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X164.9655
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.3793
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X164.6897
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.8276
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X164.1379
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X163.3103
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X162.4828
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X161.9310
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X161.6552
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.8276
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X161.6552
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.1034
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X161.9310
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.3793
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X162.2069
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.1034
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X161.9310
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.8276
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X163.0345
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.2069
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X162.4828
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.4828
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X161.9310
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.0345
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X161.6552
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X161.6552
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.1379
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X161.9310
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.9655
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X162.4828
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.5172
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X163.0345
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X163.5862
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X164.1379
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.5172
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X164.6897
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.9655
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X164.9655
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.1379
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X164.9655
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.4828
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X164.6897
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.3793
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X164.4138
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.8276
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X163.8621
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X163.3103
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X167.7931
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X167.2414
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.0345
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X167.7931
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.5862
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X168.6207
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X169.4483
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X170.2759
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.5862
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X170.8276
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.0345
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X171.1034
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.2069
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X171.1034
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.6552
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X170.8276
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.8276
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X170.2759
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X169.4483
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X168.6207
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X167.7931
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X167.5172
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.5517
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X167.2414
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.1034
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X167.2414
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.3793
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X167.5172
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.6552
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X167.7931
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.3793
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X167.5172
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.1034
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X169.4483
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X170.0000
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.5862
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X170.5517
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.0345
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X170.8276
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.2069
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X170.8276
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.6552
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X170.5517
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.8276
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X170.0000
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X169.4483
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X167.7931
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X170.5517
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X167.7931
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.5172
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X169.1724
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.5172
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X170.5517
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X175.3103
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.5172
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X175.0345
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.2414
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X175.3103
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.9655
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X175.5862
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.2414
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X175.5862
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.5172
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X175.3103
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X174.7586
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X174.2069
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.5172
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X173.9310
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.9655
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X173.9310
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X174.7586
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X174.4828
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.5172
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X174.2069
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.9655
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X174.2069
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X173.1034
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X175.3103
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X173.1034
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X175.0345
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X179.7931
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.5172
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X179.5172
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.2414
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X179.7931
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.9655
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X180.0690
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.2414
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X180.0690
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.5172
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X179.7931
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X179.2414
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X178.6897
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.5172
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X178.4138
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.9655
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X178.4138
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X179.2414
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X178.9655
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.5172
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X178.6897
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.9655
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X178.6897
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X177.5862
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X179.7931
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X177.5862
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X179.5172
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X182.6207
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.3103
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X182.6207
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.0345
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X182.3448
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.0345
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X182.3448
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.3103
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X182.6207
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.5862
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X183.1724
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X184.2759
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X184.8276
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.5862
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X185.1034
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.3103
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X185.3793
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.7586
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X185.3793
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.8276
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X185.6552
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X185.9310
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X185.1034
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.3103
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X185.1034
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.8276
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X185.3793
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X185.9310
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X186.2069
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X185.1034
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.7586
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X184.8276
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.4828
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X183.1724
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.2069
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X182.3448
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.9310
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X182.0690
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.3793
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X182.0690
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.8276
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X182.3448
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X183.1724
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X184.0000
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X184.5517
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X185.1034
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.8276
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X183.1724
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.2069
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X182.6207
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.9310
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X182.3448
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.3793
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X182.3448
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.8276
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X182.6207
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X183.1724
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X191.5172
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X191.5172
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X191.7931
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X191.7931
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X191.5172
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.0345
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X190.9655
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.5862
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X190.4138
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X189.8621
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X189.0345
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.5862
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X188.4828
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.0345
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X188.2069
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.2069
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X188.2069
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.6552
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X188.4828
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.8276
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X189.0345
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X189.8621
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X190.4138
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X190.9655
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X191.5172
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.8276
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X189.8621
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X189.3103
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.5862
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X188.7586
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.0345
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X188.4828
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.2069
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X188.4828
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.6552
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X188.7586
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.8276
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X189.3103
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X189.8621
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X190.6897
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X191.7931
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X191.5172
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X192.6207
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X194.6207
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y6.8966
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X195.1724
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y6.6207
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X195.4483
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y6.3448
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X195.7241
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.7931
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X195.7241
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.2414
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X195.4483
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.6897
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X195.1724
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.4138
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X194.8966
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.8621
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X194.8966
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.3103
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X195.4483
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.7586
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X195.1724
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y6.6207
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X195.4483
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y6.0690
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X195.4483
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y5.5172
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X195.1724
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.9655
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X194.8966
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.6897
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X194.6207
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y4.1379
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X194.6207
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.5862
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X194.8966
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y3.0345
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X196.0000
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.4828
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X194.8966
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.9310
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X194.6207
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.3793
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X194.6207
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.8276
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X194.8966
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X195.1724
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.0000
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X195.4483
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y-0.5517
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X195.4483
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y-1.1034
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X195.1724
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y-1.6552
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G0
+Rapid positioning
+
+X195.4483
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y2.2069
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+Z0.1
+Absolute or incremental position of Z axis
+
+G1
+Linear interpolation
+
+X194.8966
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.6552
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X194.8966
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y1.1034
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X195.1724
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.5517
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X195.4483
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X195.7241
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y-0.2759
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X195.7241
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y-0.8276
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X195.4483
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y-1.3793
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X195.1724
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y-1.6552
+Absolute or incremental position of Y axis
+
+G1
+Linear interpolation
+
+X194.6207
+Absolute or incremental position of X axis. Also defines dwell time on some machines (instead of "P" or "U").
+
+Y-1.9310
+Absolute or incremental position of Y axis
+
+G0
+Rapid positioning
+
+Z0.1
+Absolute or incremental position of Z axis
+

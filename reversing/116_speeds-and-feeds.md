@@ -8,4 +8,4 @@ There is something on my shop network running at nc mercury.picoctf.net 16524, b
 
 Use the following CNC viewer https://ncviewer.com/
 
-FLAG: `picoCTF{num3rical_contr01_1395ffad}`
+FLAG: `picoCTF{num3r1cal_c0ntr0l_1395ffad}`

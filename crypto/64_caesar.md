@@ -16,32 +16,21 @@ create the following python script:
 import re
 import string
 
-f = open("ciphertext", "r")
+f = open("ciphertext")
 
 content = f.read()
 
-# get only the encrypted content
-enc = re.findall("{.*?}", content)[0][1:-1]
+encrypted = re.findall("{.*?}", content)[0][1:-1]
 
-# convert to int
-enc_int = [string.ascii_lowercase.index(x) + 1 for x in enc]
-
-# results
-results = []
-
-# searching for all the possible ROTs
-for i in range(1, 26):
-    flag = []
-    for l in enc_int:
-        flag.append(string.ascii_lowercase[(l + i) % 26])
-    possible_flag = "".join(flag)
-    print(possible_flag)
-    results.append(possible_flag)
-    
-print()
-
-# the possible ROT is the 3rd one (ROT3)
-print("picoCTF{" + results[2] + "}")
+for i in range(1, 27):
+    decrypted = ""
+    for x in encrypted:
+        if x.isalpha():
+            decrypted += string.ascii_lowercase[(string.ascii_lowercase.index(x) + i) % 26]
+        else:
+            decrypted += x
+    if i == 4:
+        print("picoCTF{" + decrypted + "}")
 
 f.close()
 ```
